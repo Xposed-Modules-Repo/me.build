@@ -15,10 +15,7 @@
 ---
 
 
-## ✅ 支持框架
-
-- [LSPosed](https://github.com/LSPosed/LSPosed)
-- [LSPatch](https://github.com/LSPosed/LSPatch)
+## ✅ 支持框架  [LSPosed](https://github.com/LSPosed/LSPosed) | [LSPatch](https://github.com/LSPosed/LSPatch)
 
 
 
