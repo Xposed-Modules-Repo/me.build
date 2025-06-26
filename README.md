@@ -2,6 +2,29 @@
 
 本模块是一个基于 Xposed 的增强工具，兼容主流社交与短视频应用（如微信、抖音、Soul 等），专为提升使用体验与功能自由度而设计。
 
+# NewHookVip
+
+[![GitHub stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.build?label=stars)](https://github.com/Xposed-Modules-Repo/me.build/stargazers)
+[![GitHub Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.build/total?label=Downloads)](https://github.com/Xposed-Modules-Repo/me.build/releases)
+[![GitHub Latest Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/me.build)](https://github.com/Xposed-Modules-Repo/me.build/releases/latest)
+
+[![Freely用户交流群 338739677](https://pub.idqqimg.com/wpa/images/group.png)](https://qm.qq.com/cgi-bin/qm/qr?k=jPy6zzSs5sjv_jPAhD2s9NJuKNQdQT2p&jump_from=webapi&authKey=vfpbIAz3YtgFqv4I1I7pYrkK9XmUBr5UmQoBIXdcH3Nfm8Au8IorwUZo2EkN+3Fq)
+[![Freely会员交流群 766072298](https://pub.idqqimg.com/wpa/images/group.png)](https://qm.qq.com/cgi-bin/qm/qr?k=K4Ps-ehEFrD5D-zEP-E-_5aAg4LSFyjq&jump_from=webapi&authKey=T5UKO1ceTdpF6T79TbI+7T45sZx18t5wxKaacW0iE5xgfHSO2D9XZpc3Np5FTvDy)
+
+
+[![Telegram Group](https://img.shields.io/badge/Telegram-群组-blue.svg?logo=telegram)](https://t.me/+Z3vFo9KtyRc0MWJl)
+
+
+---
+
+
+## ✅ 支持框架
+
+- [LSPosed](https://github.com/LSPosed/LSPosed)
+- [LSPatch](https://github.com/LSPosed/LSPatch)
+
+
+
 ## 支持应用
 
 * 微信（WeChat）
