@@ -2,7 +2,6 @@
 
 本模块是一个基于 Xposed 的增强工具，兼容主流社交与短视频应用（如微信、抖音、Soul 等），专为提升使用体验与功能自由度而设计。
 
-# NewHookVip
 
 [![GitHub stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.build?label=stars)](https://github.com/Xposed-Modules-Repo/me.build/stargazers)
 [![GitHub Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.build/total?label=Downloads)](https://github.com/Xposed-Modules-Repo/me.build/releases)
