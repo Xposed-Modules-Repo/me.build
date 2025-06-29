@@ -9,7 +9,8 @@
 
 [![Telegram Group](https://img.shields.io/badge/Freely用户交流群-群组-blue.svg?logo=qq)](https://qm.qq.com/cgi-bin/qm/qr?k=jPy6zzSs5sjv_jPAhD2s9NJuKNQdQT2p&jump_from=webapi&authKey=vfpbIAz3YtgFqv4I1I7pYrkK9XmUBr5UmQoBIXdcH3Nfm8Au8IorwUZo2EkN+3Fq) [![Telegram Group](https://img.shields.io/badge/Freely会员交流群-群组-blue.svg?logo=qq)](https://qm.qq.com/cgi-bin/qm/qr?k=K4Ps-ehEFrD5D-zEP-E-_5aAg4LSFyjq&jump_from=webapi&authKey=T5UKO1ceTdpF6T79TbI+7T45sZx18t5wxKaacW0iE5xgfHSO2D9XZpc3Np5FTvDy)
 
-
+未正式发布到github 下载注册后进入交流群
+Freely下载地址:https://pay.nnnen.com/Index/DownFreely
 
 
 ---
