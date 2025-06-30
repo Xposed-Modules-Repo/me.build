@@ -115,6 +115,10 @@ Freely下载地址:https://pay.nnnen.com/Index/DownFreely
 
 * 去除广告与青少年弹窗、无水印内容下载
 
+🦉 多邻国（Duolingo）
+
+* 无视错题惩罚、自动正确率提升
+
 ---
 
 ## ⚙️ 使用说明
@@ -135,7 +139,7 @@ Freely下载地址:https://pay.nnnen.com/Index/DownFreely
 
 ---
 
-## 📄 开源与贡献
+## 📄 
 
 欢迎提交 [Issues](https://github.com/Xposed-Modules-Repo/me.plusne/issues) 与 [PRs](https://github.com/Xposed-Modules-Repo/me.plusne/pulls)！如果你希望适配更多应用或扩展功能，欢迎共建。
 
