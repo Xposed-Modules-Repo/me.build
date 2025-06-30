@@ -31,6 +31,7 @@ Freely下载地址:https://pay.nnnen.com/Index/DownFreely
 * 百度贴吧
 * 七猫免费小说
 * 皮皮搞笑
+* 多邻国
 * 以及更多正在适配的 App 和功能（持续更新中）
 ---
 
