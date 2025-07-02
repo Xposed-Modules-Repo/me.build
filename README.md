@@ -26,6 +26,7 @@ Freely下载地址:https://pay.nnnen.com/Index/DownFreely
 * 抖音（Douyin）
 * Soul
 * 快手 / 快手极速版
+* 皮皮虾
 * 小红书
 * 番茄免费小说 / 番茄畅听
 * 百度贴吧
